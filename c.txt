@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 bye
+=======
+hi
+>>>>>>> testing
