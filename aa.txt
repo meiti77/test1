@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi to every one
-=======
-bye bye
->>>>>>> testing
