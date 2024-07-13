@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hi
-=======
 hello 
 bye
->>>>>>> new_branch
+
